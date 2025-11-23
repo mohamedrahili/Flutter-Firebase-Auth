@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "724084477848",
+    "project_id": "sign-in-8cfcf",
+    "storage_bucket": "sign-in-8cfcf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724084477848:android:a4db52e16e4b8da83be5ed",
+        "android_client_info": {
+          "package_name": "com.example.modernlogintute"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLe2Wj35BNj3ZT-T_nqOEMuBdiJn3FGqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
